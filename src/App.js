@@ -7,7 +7,7 @@ export default function App() {
       <main>
         <section className="container">
           <div className="title">
-            <h2>Review App</h2>
+            <h2>Review Card</h2>
             <div className="underline"></div>
           </div>
           <Review />
