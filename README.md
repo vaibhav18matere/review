@@ -1,2 +1,2 @@
-# tours-planner-web-app
-Created with CodeSandbox
+# review card
+Technology used : HTML, CSS, React.js
